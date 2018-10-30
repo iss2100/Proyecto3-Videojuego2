@@ -1,0 +1,4 @@
+interface juego {
+  void display();
+  
+}
